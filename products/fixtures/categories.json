@@ -1,0 +1,42 @@
+[
+  {
+    "model": "products.productcategory",
+    "pk": 1,
+    "fields": {
+      "name": "Новинки",
+      "description": "Новинки в интернет магазине"
+    }
+  },
+  {
+    "model": "products.productcategory",
+    "pk": 2,
+    "fields": {
+      "name": "Одежда",
+      "description": "Ваша одежда на каждый день"
+    }
+  },
+  {
+    "model": "products.productcategory",
+    "pk": 3,
+    "fields": {
+      "name": "Обувь",
+      "description": "Вашу обувь на каждый день"
+    }
+  },
+  {
+    "model": "products.productcategory",
+    "pk": 4,
+    "fields": {
+      "name": "Аксессуары",
+      "description": "Аксессуары, чтобы дополнить ваш стиль"
+    }
+  },
+  {
+    "model": "products.productcategory",
+    "pk": 5,
+    "fields": {
+      "name": "Подарки",
+      "description": "Подарки для ваших любимых"
+    }
+  }
+]
